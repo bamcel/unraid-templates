@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityApplications>
+  <Profile>Self-hosted media applications maintained by bamcel, including MKV Orchestrator for media-file operations and PosterView for Plex, Jellyfin, and Emby artwork management. Each application links to its own source repository and support tracker.</Profile>
+  <Icon>https://raw.githubusercontent.com/bamcel/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://github.com/bamcel/unraid-templates</WebPage>
+  <Forum>https://github.com/bamcel/unraid-templates/issues</Forum>
+</CommunityApplications>
